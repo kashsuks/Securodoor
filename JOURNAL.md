@@ -34,11 +34,23 @@ Here is the updated BOM without the need for an indoor reciever component:
 - ESP-32 CAM
 - FTDI Programming Board
 - 5V Active Buzzer
-- 220V AC to 5V DC Converter
+- USB-C Breakout Board
 - Open Push Button
 - 2x LED (5mm Red)
 - MAX9814 Microphone Amplifier Module
-- 2x 220 ohm resistor (for LED)
+- 2x 1k ohm resistor (for LED)
+- 2x 5.1k ohm resistor (for the breakout board)
 - 10k ohm resistor (for button pull-up)
 
 I plan on using the FTDI just so i can flash the code onto the esp32
+
+**It is 7:40 PM and I'm happy to say that I have FINALLY finished my PCB and Schematic**
+
+Schematic:
+![Schematic](https://hc-cdn.hel1.your-objectstorage.com/s/v3/68e2fbb1c290d37b46c5d4ba38b14a61768253b1_image.png)
+
+PCB:
+![PCB](https://hc-cdn.hel1.your-objectstorage.com/s/v3/bf3249f4e07fa2c3167fb059ce48c55a4c53417a_image.png)
+
+3D Model of PCB:
+![3d Model](https://hc-cdn.hel1.your-objectstorage.com/s/v3/404d0d77049ab98243a4a0ee38572da262918797_image.png)

@@ -23,3 +23,22 @@ For the indoor reciever component:
 - 3.7V 1000mAh LiPo Battery
 - 3d printed casing
 - Dupont Wires
+
+## Jun 1, 2025
+
+I realized that building an extra indoor component would be useless since I already have a doorbell at home. So I want to change up the way it works. Essentially, the outdoor component will stay the same, except there will be a cutout at the bottom right above my current doorbell button. So when I press the button on the new doorbell a stick (or something rigid) will push the old button and make a sound inside the house, and I can just record the footage from when it was pressed.
+
+I also want to use IFTTT to send a message to my phone when someone is at the door, just so I can make it work a bit better.
+
+Here is the updated BOM without the need for an indoor reciever component:
+- ESP-32 CAM
+- FTDI Programming Board
+- 5V Active Buzzer
+- 220V AC to 5V DC Converter
+- Open Push Button
+- 2x LED (5mm Red)
+- MAX9814 Microphone Amplifier Module
+- 2x 220 ohm resistor (for LED)
+- 10k ohm resistor (for button pull-up)
+
+I plan on using the FTDI just so i can flash the code onto the esp32

@@ -1,5 +1,9 @@
-# Securodoor
-A wireless doorbell with security features and custom sounds!
+---
+title: "Securodoor"
+author: "Kashyap S"
+description: "A custom doorbell with camera footage and custom sounds"
+created_at: "2025-05-30"
+---
 
 ## May 30, 2025
 

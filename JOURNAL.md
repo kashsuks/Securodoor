@@ -54,3 +54,7 @@ PCB:
 
 3D Model of PCB:
 ![3d Model](https://hc-cdn.hel1.your-objectstorage.com/s/v3/404d0d77049ab98243a4a0ee38572da262918797_image.png)
+
+
+## Jun 2, 2025
+Today, I'll start with the firmware (probably going to use arduino ide and then flashing it to the FTDI board and then flash to the esp-32 cam).

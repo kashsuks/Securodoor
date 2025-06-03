@@ -67,6 +67,6 @@ It is 10:19 PM and I've officially completed my CAD design for this project!!
 
 CAD:
 
-[CAD Image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/8f79267e691d3053632b8f7fadb7e0d79c361e40_image.png)
+![CAD Image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/8f79267e691d3053632b8f7fadb7e0d79c361e40_image.png)
 
 **Total Hours Spent: 8**

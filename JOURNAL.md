@@ -62,3 +62,11 @@ PCB:
 
 ## Jun 2, 2025
 Today, I'll start with the firmware (probably going to use arduino ide and then flashing it to the FTDI board and then flash to the esp-32 cam).
+
+It is 10:19 PM and I've officially completed my CAD design for this project!!
+
+CAD:
+
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/8f79267e691d3053632b8f7fadb7e0d79c361e40_image.png
+
+**Total Hours Spent: 8**

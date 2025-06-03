@@ -28,6 +28,8 @@ For the indoor reciever component:
 - 3d printed casing
 - Dupont Wires
 
+**Total time spent: 1 hour**
+
 ## Jun 1, 2025
 
 I realized that building an extra indoor component would be useless since I already have a doorbell at home. So I want to change up the way it works. Essentially, the outdoor component will stay the same, except there will be a cutout at the bottom right above my current doorbell button. So when I press the button on the new doorbell a stick (or something rigid) will push the old button and make a sound inside the house, and I can just record the footage from when it was pressed.
@@ -59,6 +61,8 @@ PCB:
 3D Model of PCB:
 ![3d Model](https://hc-cdn.hel1.your-objectstorage.com/s/v3/404d0d77049ab98243a4a0ee38572da262918797_image.png)
 
+**Total time spent: 4 hours**
+
 
 ## Jun 2, 2025
 Today, I'll start with the firmware (probably going to use arduino ide and then flashing it to the FTDI board and then flash to the esp-32 cam).
@@ -69,4 +73,4 @@ CAD:
 
 ![CAD Image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/8f79267e691d3053632b8f7fadb7e0d79c361e40_image.png)
 
-**Total Hours Spent: 8**
+**Total Hours Spent: 3**

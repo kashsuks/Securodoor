@@ -21,6 +21,9 @@ PCB:
 3D Model of PCB:
 ![3d Model](https://hc-cdn.hel1.your-objectstorage.com/s/v3/404d0d77049ab98243a4a0ee38572da262918797_image.png)
 
+3d Model of my Case!!:
+![3D model](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ce527a0934dd7c5578a1d981b13bf95321074426_image.png)
+
 I realized that I didn't need a PCB since I wont be using it and instead handwiring everything a bit too late :D
 
 ## BOM

@@ -16,10 +16,10 @@ Schematic:
 ![Schematic](https://hc-cdn.hel1.your-objectstorage.com/s/v3/68e2fbb1c290d37b46c5d4ba38b14a61768253b1_image.png)
 
 PCB:
-![PCB](https://hc-cdn.hel1.your-objectstorage.com/s/v3/bf3249f4e07fa2c3167fb059ce48c55a4c53417a_image.png)
+![PCB](https://hc-cdn.hel1.your-objectstorage.com/s/v3/400d7cb7fd203a8e0d057828489015991d20c12d_image.png)
 
 3D Model of PCB:
-![3d Model](https://hc-cdn.hel1.your-objectstorage.com/s/v3/404d0d77049ab98243a4a0ee38572da262918797_image.png)
+![3d Model](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c277794cac288aa9c95a781bfe5c6fe8417720c9_image.png)
 
 3d Model of my Case!!:
 ![3D model](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ce527a0934dd7c5578a1d981b13bf95321074426_image.png)
